@@ -2,4 +2,10 @@
 body {
   background-color: #FF0000;
 }
+p {
+    color: #00FF00;
+    font-family: verdana;
+    font-size: 20px;
+}
+
 
